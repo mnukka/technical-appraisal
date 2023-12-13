@@ -13,7 +13,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
    * Tasks:
      * Initialize a new Angular component for the stepper.
      * Implement static steps (e.g., Step 1, Step 2, Step 3) using Angular templates.
-2. Goal: Enhance thestepper todynamically create steps based on input data
+2. Goal: Enhance the stepper to dynamically create steps based on input data
    * Tasks:
      * Modify the stepper to accept an array of step names as input
      * Use angular template functionality to render steps dynamically
